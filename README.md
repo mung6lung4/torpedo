@@ -14,12 +14,11 @@ Torpedo 是一个面向闲鱼卖家的运营自动化系统，覆盖「消息处
 
 - Torpedo 官方文档：[https://docs.torpedo.homes](https://docs.torpedo.homes)
 
-## 现开放尝鲜试用
-
-为帮助新用户更快完成功能验证与业务评估，Torpedo 现开放限量尝鲜试用资格。
-
-- 试用入口：[https://shop.autotools.cfd/buy/2](https://shop.autotools.cfd/buy/2)
-- 活动说明：现开放尝鲜试用，卡密领完为止。
+<div align="center">
+  <h1>现开放尝鲜试用，卡密领完为止</h1>
+  <p><strong>新用户限量开放体验资格，建议先体验后部署。</strong></p>
+  <p><a href="https://shop.autotools.cfd/buy/2">立即领取试用资格</a></p>
+</div>
 
 ## 适合谁
 
